@@ -1,0 +1,10 @@
+release/addval.o
+release/connection.o
+release/main.o
+release/mainwindow.o
+release/treeitem.o
+release/treemodel.o
+release/moc_addval.o
+release/moc_connection.o
+release/moc_mainwindow.o
+release/moc_treemodel.o

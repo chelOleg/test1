@@ -1,0 +1,10 @@
+debug/addval.o
+debug/connection.o
+debug/main.o
+debug/mainwindow.o
+debug/treeitem.o
+debug/treemodel.o
+debug/moc_addval.o
+debug/moc_connection.o
+debug/moc_mainwindow.o
+debug/moc_treemodel.o
